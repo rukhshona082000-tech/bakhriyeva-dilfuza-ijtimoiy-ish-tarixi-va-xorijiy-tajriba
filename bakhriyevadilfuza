@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Моя книга</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      max-width: 700px;
+      margin: auto;
+      padding: 40px 20px;
+      font-family: Georgia, serif;
+      line-height: 1.7;
+      background: #fafafa;
+      color: #111;
+    }
+    h1 {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Моя книга</h1>
+
+<p>Это онлайн-версия книги.</p>
+
+<p>Здесь будет текст первой главы.</p>
+
+</body>
+</html>
